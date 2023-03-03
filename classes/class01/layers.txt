@@ -15,7 +15,7 @@ controllers
   -> é a intermediaria entre (services e/ou workers) e views
 
 factories ->
-  -> a factory é quem importa as dependencias
+  -> a factory é quem importa as dependências
   -> e cria o objeto final para fazermos as chamadas 
   -> retorna a função que inicializa o fluxo daquele componente (init)
 
